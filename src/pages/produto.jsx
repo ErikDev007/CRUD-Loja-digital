@@ -6,9 +6,12 @@ import Footer from "../components/footer.jsx";
 function Produto() {
     return(
         <div className="Produto">
+
             <NavBar />
 
-            <main class="flex-fill">
+            <br className="mt-5" />
+
+            <main class="flex-fill mt-5 pb-5">
             <div class="container">
                 <div class="row g-3">
                     <div class="col-12 col-sm-6">

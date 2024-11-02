@@ -56,40 +56,6 @@ function ClienteEndereco() {
                                 <b class="text-dark">Cartão de Crédito</b>
                             </h3>
                             <hr/>
-                            <form action="">
-                                <div class="form-floating mb-3">
-                                    <input type="text" id="txtNome" class="form-control" placeholder=" " autofocus/>
-                                    <label for="txtNome" class="text-black-50">Nome Impresso no Cartão</label>
-                                </div>
-
-                                <div class="form-floating mb-3">
-                                    <input type="text" id="txtNumero" class="form-control" placeholder=" "/>
-                                    <label for="txtNumero" class="text-black-50">Número do Cartão</label>
-                                </div>
-
-                                <div class="form-floating mb-3">
-                                    <input type="text" id="txtValidade" class="form-control" placeholder=" "/>
-                                    <label for="txtValidade" class="text-black-50">Validade (mm/aa)</label>
-                                </div>
-
-                                <div class="form-floating mb-3">
-                                    <input type="text" id="txtCodigo" class="form-control" placeholder=" "/>
-                                    <label for="txtCodigo" class="text-black-50">Código de Segurança</label>
-                                </div>
-
-                                <div class="form-floating">
-                                    <select id="selParcelas" class="form-select">
-                                        <option value="1" selected>À vista</option>
-                                        <option value="2">2 x sem juros</option>
-                                        <option value="3">3 x sem juros</option>
-                                        <option value="4">4 x sem juros</option>
-                                        <option value="5">5 x sem juros</option>
-                                        <option value="6">6 x sem juros</option>
-                                    </select>
-                                    <label for="selParcelas" class="text-black-50">Parcelamento</label>
-                                </div>
-                            </form>
-
                         </label>
                     </div>
 
@@ -97,11 +63,21 @@ function ClienteEndereco() {
                         <input type="radio" class="btn-check" name="pagamento" autocomplete="off" id="pag2"/>
                         <label class="btn btn-outline-danger p-4 h-100 w-100" for="pag2">
                             <h3>
+                                <b class="text-dark">Cartão de Crédito</b>
+                            </h3>
+                            <hr/>
+                        </label>
+                    </div>
+
+                    <div class="mb-4 mx-2 flex-even">
+                        <input type="radio" class="btn-check" name="pagamento" autocomplete="off" id="pag3"/>
+                        <label class="btn btn-outline-danger p-4 h-100 w-100" for="pag3">
+                            <h3>
                                 <b class="text-dark">Dinheiro</b>
                             </h3>
                             <hr/>
                             <form action="">
-                                <h4>Valor da Compra: <b>R$ 63,86</b></h4>
+                                <h4>Valor da Compra: <b>R$ 99,99</b></h4>
                                 <br/>
                                 <p>
                                     Se precisar de troco, informe no campo abaixo.
@@ -135,3 +111,4 @@ function ClienteEndereco() {
         }
 
         export default ClienteEndereco;
+        
