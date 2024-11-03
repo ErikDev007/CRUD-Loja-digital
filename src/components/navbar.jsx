@@ -5,7 +5,7 @@ function NavBar() {
   return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-info shadow-sm mb-3 fixed-top">
         <div className="container">
-                <Link className="navbar-brand" to="/"><img src="../src/assets/Logo.png" style={{width:"100px" , height:"48px"}}></img></Link>
+                <Link className="navbar-brand" to="/"><img src="../src/assets/logo.png" style={{width:"100px" , height:"48px"}}></img></Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target=".navbar-collapse">
                     <span className="navbar-toggler-icon"></span>
