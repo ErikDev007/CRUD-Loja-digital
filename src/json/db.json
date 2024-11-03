@@ -2,98 +2,98 @@
     {
         "img":"https://down-br.img.susercontent.com/file/09dc0abeae69730b1568ccc49b980a66.webp",
          "id": "https://cdn.pixabay.com/photo/2023/04/26/17/59/wrist-watch-7953062_1280.jpg", 
-         "price":"9,99", 
-         "title":"Calça de Moletom Masculina Peluciada", 
-         "description":"um relogio de couro", 
+         "price":"39,99", 
+         "title":"CALÇA DE MOLTOM MASCULINA", 
+         "description":"Calça de Moletom Masculina Peluciada", 
          "quantity":"01"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/sg-11134201-23020-aduqbh97o0mv5b.webp",
          "id": "id", 
-         "price":"9,99", 
-         "title":"", 
-         "description":"", 
-         "quantity":""
+         "price":"49,99", 
+         "title":"CAMISA MASCULINA SLIM", 
+         "description":"Camisa Slim Fit Manga Longa", 
+         "quantity":"00"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/1e6e8cf372680982c14f7ee959da3fd5.webp",
          "link": "id", 
-         "price":"9,99", 
-         "title":"Máquina De Cortar Cabelo NHC-3915", 
-         "description":"", 
-         "quantity":""
+         "price":"24,99", 
+         "title":"MAQUINA DE CORTAR CABELO", 
+         "description":"Barbeador Nhc-3915 Recarregável", 
+         "quantity":"01"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/br-11134207-7r98r-lmdhdobnuk1ib9.webp",
          "link": "id", 
-         "price":"", 
-         "title":"Bota Coturno Adventure Salazari", 
-         "description":"", 
-         "quantity":""
+         "price":"29,99", 
+         "title":"BOTA COTURNO ADVENTURE", 
+         "description":"Bota Coturno Adventure Salazari", 
+         "quantity":"01"
     },
     {
-        "img":"https://ae-pic-a1.aliexpress-media.com/kf/S3b58446ea0e14727b9fa342a595bad41y.jpg_80x80.jpg_.webp",
+        "img":"https://down-br.img.susercontent.com/file/6ae32c98a939833033dece9d8ba984d2.webp",
          "link": "id", 
-         "price":"", 
-         "title":"", 
-         "description":"", 
-         "quantity":""
+         "price":"29,99", 
+         "title":"Conjunto de Jóias de Relógio", 
+         "description":"Relógio de Quartzo Ladies Belt Geneva", 
+         "quantity":"01"
     },
     {
-        "img":"https://down-br.img.susercontent.com/file/cn-11134301-7r98o-low69n16jj30b3.webp",
+        "img":"https://down-br.img.susercontent.com/file/sg-11134201-7rcd1-ltaf0h8c0dx744.webp",
          "link": "id", 
-         "price":"", 
-         "title":"", 
-         "description":"", 
-         "quantity":""
+         "price":"29,99", 
+         "title":"Relógio Homem Quartzo Simples", 
+         "description":"Relógio Cinto de Quartzo Generosa", 
+         "quantity":"01"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/cn-11134207-7r98o-luoex6d01h34a2.webp",
          "link": "id", 
-         "price":"", 
+         "price":"29,99", 
          "title":"Conjunto de relógios de couro", 
-         "description":"", 
-         "quantity":""
+         "description":"Conjunto de relógios de ruby", 
+         "quantity":"01"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz0x0rvdk2sla4.webp",
          "link": "id", 
-         "price":"", 
+         "price":"29,99", 
          "title":"Kawaii Rabbit Desk LED Lamp", 
-         "description":"", 
-         "quantity":""
+         "description":"Rabbit Desk LED Lamp para mesa", 
+         "quantity":"02"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/br-11134211-7r98s-lms7etonp3au9d.webp",
          "link": "id", 
-         "price":"", 
-         "title":"", 
-         "description":"", 
-         "quantity":""
+         "price":"34,99", 
+         "title":"Máquina de corte de cabelo elétrica", 
+         "description":"cortador de cabelo vintage", 
+         "quantity":"01"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1iww1am3t7uf0.webp",
          "link": "id", 
-         "price":"", 
-         "title":"", 
-         "description":"", 
-         "quantity":""
+         "price":"119,99", 
+         "title":"Kit Câmera Segurança", 
+         "description":"Câmera Lâmpada S/Fio Wifi", 
+         "quantity":"00"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lorva0316z769f.webp",
          "link": "id", 
-         "price":"", 
-         "title":"", 
-         "description":"", 
-         "quantity":""
+         "price":"29,99", 
+         "title":"KIT 2 PRATELEIRAS COM ADESIVOS", 
+         "description":"2 Prateleiras para Banheiro", 
+         "quantity":"00"
     },
     {
         "img":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv63wkeaes2x8f.webp",
          "link": "id", 
-         "price":"", 
-         "title":"Fone P47 Headphone Sem Fio Estéreo", 
-         "description":"", 
-         "quantity":""
+         "price":"24,99", 
+         "title":"FONE P47 SEM FIO ESTEREO", 
+         "description":"Fone P47 Headphone Sem Fio", 
+         "quantity":"01"
     }
     
 ]
