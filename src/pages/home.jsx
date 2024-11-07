@@ -6,7 +6,7 @@ import Caroulsel from "../components/carousel.jsx";
 import Card from "../components/card.jsx";
 import Search from "../components/search.jsx";
 import Pagination from "../components/Pagination.jsx";
-import InfoCards from "../json/db.json"
+import InfoCards from "./json/db.json"
 
 
 function Home() {
