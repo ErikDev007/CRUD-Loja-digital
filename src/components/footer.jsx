@@ -1,13 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+const currentYear = new Date().getFullYear()
+
 function Footer() {
     return (
         <footer className="border-top text-muted bg-light">
             <div className="container">
                 <div className="row py-3">
                     <div className="col-12 col-md-4 text-center">
-                        &copy; 2024 - Grafica E.E Ltda ME
+                        &copy; {currentYear} - Grafica E.E Ltda ME
                         <br/>
                         Fortaleza/CE
                         <br/>
